@@ -1,0 +1,28 @@
+.row{
+  border: 1px solid black;
+}
+
+.header_logo{
+  height: 100px;
+  width: 150px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sidebar{
+  border: 1px solid black;
+}
+
+.logoimage{
+
+  display: flex;
+  align-items: center;
+}
+
+#styleprop{
+  background-color: #ffb74d;
+}
